@@ -287,6 +287,9 @@ I researched more in-depth about the specifics which might differ from a Comet L
 * [Success: Asrock B660M-HDV & i5-12400F](https://www.reddit.com/r/hackintosh/comments/sa87ax/success\_asrock\_b660mhdv\_i512400f/)
 * [Z690 SFF, Asus Z690-i Strix ITX, Intel i7-12700k, AMD RX 6900 XT, 32GB G.Skill 6000Mhz DDR5, Meshlicious Case](https://www.reddit.com/r/hackintosh/comments/ucnsob/z690\_sff\_fully\_water\_cooled\_bone\_crusher\_asus/)
 * [i3-12100 + MSI H610M-B + MSI Radeon RX5500XT](https://www.reddit.com/r/hackintosh/comments/ud4n59/succeed\_install\_macos\_monterey\_1231\_on\_i3\_12100/)
+* [i9-12900 + MSI B760M-A-WIFI + ASUS ROG Radeon RX6700XT](https://www.reddit.com/r/hackintosh/comments/1fs5kq7/migrated_my_install_from_ryzen_2600_to_i9_after/)
+
+ 
 
 #### Golden and User Builds on TM
 
